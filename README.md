@@ -14,6 +14,7 @@ Even if the password is not withdrawn, it will expire automatically.
 ## Install
 - Clone this repository
 - Rename `config.dist.py` file to `config.py`
+- Make sure redis server is running on port 6379 ($redis-server to start the redis server )
 - Edit configuration file to meet your needs
 - Run `make build`
 
