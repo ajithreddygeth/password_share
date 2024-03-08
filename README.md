@@ -1,3 +1,5 @@
+![alt text](images/welcome_page.webp)
+
 # PASSION
 Safe password and sensitive data sharing.
 
@@ -21,3 +23,7 @@ Even if the password is not withdrawn, it will expire automatically.
 ## Run
 - Jump into the virtual environment `source .venv/bin/activate`
 - Run `python3 index.py` 
+
+## Run with Docker Compose ##
+
+- Run in detached mode `docker compose up --detach` 
